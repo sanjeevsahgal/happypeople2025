@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Happy People 2025 - Alumni Meet</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: linear-gradient(135deg, #ffecd2, #fcb69f);
+      color: #333;
+    }
+    header {
+      background-color: #f57c00;
+      color: white;
+      padding: 1rem;
+      text-align: center;
+    }
+    main {
+      padding: 2rem;
+      max-width: 800px;
+      margin: auto;
+      background-color: #ffffffcc;
+      border-radius: 10px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+    h1, h2 {
+      color: #e65100;
+    }
+    .event-details {
+      background-color: #fff3e0;
+      padding: 1rem;
+      border-left: 5px solid #fb8c00;
+      margin-bottom: 2rem;
+    }
+    footer {
+      text-align: center;
+      padding: 1rem;
+      background-color: #f57c00;
+      color: white;
+    }
+    .rsvp-button {
+      display: inline-block;
+      background-color: #e65100;
+      color: white;
+      padding: 0.75rem 1.5rem;
+      border-radius: 25px;
+      text-decoration: none;
+      font-weight: bold;
+      margin-top: 1rem;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Happy People 2025</h1>
+    <p>Celebrating 15 Years of Connections & Camaraderie</p>
+  </header>
+  <main>
+    <section class="event-details">
+      <h2>📍 Location</h2>
+      <p>The League, Hyderabad</p>
+      <h2>📅 Date</h2>
+      <p>Saturday, 5th July 2025</p>
+      <h2>🕗 Time</h2>
+      <p>6:30 PM onwards</p>
+    </section>
+    <section>
+      <h2>🎉 What to Expect</h2>
+      <ul>
+        <li>Welcome drinks & gala dinner</li>
+        <li>Fun group games & surprise awards</li>
+        <li>Story sharing from across India</li>
+        <li>DJ night to relive college memories</li>
+      </ul>
+      <a href="#" class="rsvp-button">RSVP Now</a>
+    </section>
+  </main>
+  <footer>
+    <p>We can't wait to see you there! 💫</p>
+  </footer>
+</body>
+</html>
